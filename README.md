@@ -19,3 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
