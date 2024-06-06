@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0409-longest-palindrome) |
 # Greedy
 |  |
@@ -22,4 +23,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0001-two-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
