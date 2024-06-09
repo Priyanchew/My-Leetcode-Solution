@@ -31,3 +31,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0012-integer-to-roman) |
+# Tree
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+# Depth-First Search
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+# Binary Tree
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
