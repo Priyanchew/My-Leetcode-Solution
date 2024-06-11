@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0409-longest-palindrome) |
 # Hash Table
@@ -49,3 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0020-valid-parentheses) |
