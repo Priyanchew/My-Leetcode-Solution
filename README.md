@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 # String
 |  |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0075-sort-colors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Math
 |  |
@@ -54,3 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0020-valid-parentheses) |
+# Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0075-sort-colors) |
