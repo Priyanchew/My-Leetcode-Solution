@@ -26,12 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Math
@@ -62,8 +64,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Counting
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0502-ipo) |
