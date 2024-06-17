@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0012-integer-to-roman) |
+| [0633-sum-of-square-numbers](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 # Tree
 |  |
 | ------- |
@@ -76,3 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
