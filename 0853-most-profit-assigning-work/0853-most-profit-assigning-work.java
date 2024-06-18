@@ -10,7 +10,7 @@ class Solution {
                 }
                 }
             }
-            if(maxfori!=-1){total+=maxfori;}
+            total+=maxfori;
         }
         return total;
     }
