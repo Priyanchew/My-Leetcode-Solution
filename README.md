@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0409-longest-palindrome](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0409-longest-palindrome) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 # Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1138-grumpy-bookstore-owner](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0633-sum-of-square-numbers](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 # Tree
 |  |
 | ------- |
@@ -97,3 +100,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
