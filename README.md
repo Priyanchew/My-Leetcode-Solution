@@ -59,14 +59,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Backtracking
 |  |
 | ------- |
@@ -127,3 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
