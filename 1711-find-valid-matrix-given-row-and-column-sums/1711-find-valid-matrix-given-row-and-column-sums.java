@@ -1,23 +1,22 @@
 class Solution {
-    public int[][] restoreMatrix(int[] rowSum, int[] colSum) {
-        int n = rowSum.length;
-        int m = colSum.length;
-        int [][]matrix = new int[n][m];
-        for(int i = 0; i < n; i ++){
-            for(int j = 0; j < m; j ++){
-                if(rowSum[i] < colSum[j]){
-                    matrix[i][j] = rowSum[i];
-                }
-                else if(rowSum[i] > colSum[j]){
-                    matrix[i][j] = colSum[j];
-                }
-                else{
-                    matrix[i][j] = colSum[j];
-                }
-                rowSum[i] -= matrix[i][j];
-                colSum[j] -= matrix[i][j];
+    public int[][] restoreMatrix(int[] r, int[] c) {
+        int m = r.length;
+        int n = c.length;
+        int[][] a = new int[m][n];
+        int i = m-1;
+        int j = n-1;
+        while(i >= 0 && j >= 0){
+            if(r[i] <= c[j]){
+                a[i][j] = r[i];
+                c[j] -= r[i];
+                i--;
+            }
+            else {
+                a[i][j] = c[j];
+                r[i] -= c[j];
+                j--;
             }
         }
-        return matrix;
+        return a;
     }
 }
