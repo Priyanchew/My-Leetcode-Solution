@@ -1,48 +1,32 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
-        return nums;
-    }
+        int max = nums[0];
+        int min = nums[0];
 
-    private void mergeSort(int[] nums, int left, int right) {
-        if (left >= right) return;
+        for (int num : nums) {
+            max = Math.max(max, num);
+            min = Math.min(min, num);
+        }
 
-        int mid = left + (right - left) / 2;
+        int n = max - min;
+        int[] arr = new int[n + 1];
 
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
+        for (int num : nums) {
+            arr[num - min]++;
+        }
 
-        merge(nums, left, mid, right);
-    }
+        int index = 0;
 
-    private void merge(int[] nums, int left, int mid, int right) {
-        int n1 = mid - left + 1;
-        int n2 = right - mid;
-
-        int[] leftArray = new int[n1];
-        int[] rightArray = new int[n2];
-
-        for (int i = 0; i < n1; ++i)
-            leftArray[i] = nums[left + i];
-        for (int i = 0; i < n2; ++i)
-            rightArray[i] = nums[mid + 1 + i];
-
-        int i = 0, j = 0, k = left;
-
-        while (i < n1 && j < n2) {
-            if (leftArray[i] <= rightArray[j]) {
-                nums[k++] = leftArray[i++];
-            } else {
-                nums[k++] = rightArray[j++];
+        for (int i = 0; i <= n; i++) {
+            while (arr[i] > 0) {
+                nums[index] = min;
+                index++;
+                arr[i]--;
             }
+
+            min++;
         }
 
-        while (i < n1) {
-            nums[k++] = leftArray[i++];
-        }
-
-        while (j < n2) {
-            nums[k++] = rightArray[j++];
-        }
+        return nums;
     }
 }
