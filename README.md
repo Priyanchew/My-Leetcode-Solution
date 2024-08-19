@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
