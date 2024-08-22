@@ -1,15 +1,18 @@
 class Solution {
-    public int findComplement(int num) {
-        String str = Integer.toBinaryString(num);
-        String res = "";
-        for(int i=0;i<str.length();i++){
-            if(str.charAt(i) == '0'){
-                res += '1';
-            }
-            else{
-                res += '0';
-            }
+    public int findComplement(int num) 
+    {
+        int n = (int)(Math.pow(2, digits(num)) - 1); 
+        return n - num;                              
+    }
+    
+    public static int digits(int n)
+    {
+        int c = 0;                  
+        while(n > 0)                
+        {
+            n = n / 2;              //n = 5/2 = 2, 2)2/2 = 1, 3)1/2 = 0
+            c++;                    //c = 1, 2, 3
         }
-        return Integer.parseInt(res,2);
+        return c;                   //return 3
     }
 }
