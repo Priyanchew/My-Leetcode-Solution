@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0067-add-binary) |
 | [0906-walking-robot-simulation](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1642-water-bottles) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0870-magic-squares-in-grid) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1720-crawler-log-folder) |
@@ -425,5 +428,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
