@@ -10,44 +10,23 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        if(head == null || head.next == null)
-            return head;
-        ListNode Sintenal = new ListNode(0);
-        Sintenal.next = head;
-        ListNode curr = Sintenal.next;
-        ListNode precurr = Sintenal;
-        
-        while(curr != null && curr.val < x){
-            precurr = curr;
-            curr = curr.next;
-        }
+        ListNode left = new ListNode(0);
+        ListNode right = new ListNode(0);
+        ListNode headLeft  = left;
+        ListNode headRight =right;
+        ListNode run = head;
 
-        // now here we are at the first node that bigger than x
-        // after them we should remove them add them next to it
-        if(curr == null){
-            return head;
-        }
-        Queue<ListNode> queue = new ArrayDeque<>();
-        ListNode mover = curr.next;
-        ListNode preMover = curr;
-        while(mover != null){
-            if(mover.val < x){
-                queue.add(mover);
-                preMover.next = mover.next;
-                mover = preMover;
+        while(run != null){
+            if(run.val < x){
+                left.next = new ListNode(run.val);
+                left = left.next;
             }else{
-                preMover = mover;
-                mover = mover.next;
+                right.next = new ListNode(run.val);
+                right = right.next;
             }
+            run = run.next;
         }
-
-        while(!queue.isEmpty()){
-            System.out.println(queue.peek().val);
-            precurr.next = queue.remove();
-            precurr = precurr.next;
-        }
-        precurr.next = curr;
-        return Sintenal.next;
-
+        left.next = headRight.next;
+        return headLeft.next;
     }
 }
