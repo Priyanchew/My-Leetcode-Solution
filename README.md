@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2299-merge-nodes-in-between-zeros](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2645-pass-the-pillow) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -373,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0948-sort-an-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1325-path-with-maximum-probability) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
