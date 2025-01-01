@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0726-number-of-atoms) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1240-stone-game-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
