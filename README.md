@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2727-number-of-senior-citizens) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 ## Game Theory
 |  |
 | ------- |
