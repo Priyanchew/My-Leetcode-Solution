@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2502-sort-the-people](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
 |  |
 | ------- |
