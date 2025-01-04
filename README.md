@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
@@ -448,4 +451,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0476-number-complement) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
