@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0086-partition-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0273-integer-to-english-words](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
