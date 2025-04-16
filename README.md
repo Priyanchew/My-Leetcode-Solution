@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2502-sort-the-people) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2846-robot-collisions) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2502-sort-the-people) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Strongly Connected Component
 |  |
 | ------- |
