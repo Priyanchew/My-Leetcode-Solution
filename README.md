@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -253,11 +254,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0086-partition-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2502-sort-the-people) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
