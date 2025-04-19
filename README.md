@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0906-walking-robot-simulation) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
