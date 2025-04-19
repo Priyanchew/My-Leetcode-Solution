@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0870-magic-squares-in-grid) |
