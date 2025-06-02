@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0135-candy) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0906-walking-robot-simulation) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/0135-candy) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Priyanchew/My-Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
